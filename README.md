@@ -1,4 +1,7 @@
-### Hi there 👋
+
+<img align="center" src="./assets/logoGit.jpg"/>
+
+
 
 <!--
 **mazay33/mazay33** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
