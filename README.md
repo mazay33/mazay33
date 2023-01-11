@@ -2,7 +2,7 @@
 <img src="./assets/logoGit.jpg"/>
 </p>
 <h1 align="center">Hi 👋, I'm Andrey</h1>
-<h3 align="center">A young front end developer from Russia</h3>
+<h3 align="center">Frontend developer from Russia</h3>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://t.me/mazay33" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="mazay33" height="30" width="40" /></a>
